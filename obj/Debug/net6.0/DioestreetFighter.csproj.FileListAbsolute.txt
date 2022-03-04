@@ -1,0 +1,15 @@
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\bin\Debug\net6.0\DioestreetFighter.exe
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\bin\Debug\net6.0\DioestreetFighter.deps.json
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\bin\Debug\net6.0\DioestreetFighter.runtimeconfig.json
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\bin\Debug\net6.0\DioestreetFighter.dll
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\bin\Debug\net6.0\DioestreetFighter.pdb
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.csproj.AssemblyReference.cache
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.AssemblyInfoInputs.cache
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.AssemblyInfo.cs
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.csproj.CoreCompileInputs.cache
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.dll
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\refint\DioestreetFighter.dll
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.pdb
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\DioestreetFighter.genruntimeconfig.cache
+C:\Users\bngil\OneDrive\Área de Trabalho\Dio\DioestreetFighter\obj\Debug\net6.0\ref\DioestreetFighter.dll
